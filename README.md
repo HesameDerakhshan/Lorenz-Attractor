@@ -1,4 +1,4 @@
 # Lorenz-system
 mathematical model for atmospheric convection
 
-![formula](https://render.githubusercontent.com/render/math?math=\frac{\mathrm{d} x}{\mathrm{~d} t}=\sigma(y-x))
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{equation}&space;\begin{aligned}&space;&\frac{\mathrm{d}&space;x}{\mathrm{~d}&space;t}=\sigma(y-x)&space;\\&space;&\frac{\mathrm{d}&space;y}{\mathrm{~d}&space;t}=x(\rho-z)-y&space;\\&space;&\frac{\mathrm{d}&space;z}{\mathrm{~d}&space;t}=x&space;y-\beta&space;z&space;\end{aligned}&space;\end{equation}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{equation}&space;\begin{aligned}&space;&\frac{\mathrm{d}&space;x}{\mathrm{~d}&space;t}=\sigma(y-x)&space;\\&space;&\frac{\mathrm{d}&space;y}{\mathrm{~d}&space;t}=x(\rho-z)-y&space;\\&space;&\frac{\mathrm{d}&space;z}{\mathrm{~d}&space;t}=x&space;y-\beta&space;z&space;\end{aligned}&space;\end{equation}" title="\begin{equation} \begin{aligned} &\frac{\mathrm{d} x}{\mathrm{~d} t}=\sigma(y-x) \\ &\frac{\mathrm{d} y}{\mathrm{~d} t}=x(\rho-z)-y \\ &\frac{\mathrm{d} z}{\mathrm{~d} t}=x y-\beta z \end{aligned} \end{equation}" /></a>
